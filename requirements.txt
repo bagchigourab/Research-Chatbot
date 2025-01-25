@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+langchain
+pinecone-client
+openai
+python-dotenv
+PyPDF2
+langchain-openai
+langchain-community
+pypdf
+jinja2
+langchain-pinecone
+pinecone-client
